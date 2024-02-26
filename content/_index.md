@@ -10,7 +10,8 @@ sections:
     content:
       title: Diego M. Del Vecchio
       image:
-        filename: hero-academic.png
+#        filename: hero-academic.png
+        filename: portrait.png
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
