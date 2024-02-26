@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Diego M. Del Vecchio
+title: Diego Del Vecchio
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: eCommerce & AI for the Travel & Tourism Industry
+role: eCommerce, AI Data Science. Travel & Tourism
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -55,7 +55,7 @@ skills:
         description: ''
         percent: 80
         icon: cart-shopping
-        icon_pack: fab
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
