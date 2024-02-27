@@ -93,6 +93,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Chief Marketing Office
+          company: GrupoBD & ADH
+          company_url: ''
+          company_logo: 
+          location: Mexico
+          date_start: '2023-02-01'
+          date_end: ''
+          description: Comercializadora y operadora de empresas especializadas en la industria de la hospitalidad.
+
         - title: Chief Marketing Office & Partner
           company: Price Travel
           company_url: ''
