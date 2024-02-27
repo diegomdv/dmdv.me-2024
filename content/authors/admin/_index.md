@@ -32,6 +32,7 @@ interests:
   - Artificial Intelligence
   - eCommerce
   - Data Science
+  - Travel & Tourism
 
 # Education to show in About widget
 #education:
@@ -53,7 +54,7 @@ skills:
     items:
       - name: eCommerce
         description: ''
-        percent: 80
+        percent: 100
         icon: cart-shopping
         icon_pack: fas
       - name: Data Science
@@ -63,7 +64,7 @@ skills:
         icon_pack: fas
       - name: AI
         description: ''
-        percent: 40
+        percent: 100
         icon: brain
         icon_pack: fas
   - name: Hobbies
@@ -77,7 +78,7 @@ skills:
         icon_pack: fas
       - name: Miniature Painting
         description: ''
-        percent: 80
+        percent: 70
         icon: paintbrush
         icon_pack: fas
       - name: Photography
