@@ -45,10 +45,10 @@ sections:
       username: admin
 
       extra:
-      I like to <b><span
+      <div>I like to <b><span
            class="txt-rotate"
            data-period="2000"
-           data-rotate='[ "sell more with less effort", "control your distribution", "really stand out from your competitors", "use AI effectively", "make a difference" ]' style='background:yellow;'></span></b>?
+           data-rotate='[ "sell more with less effort", "control your distribution", "really stand out from your competitors", "use AI effectively", "make a difference" ]' style='background:yellow;'></span></b>?</div>
 
   - block: collection
     id: posts
