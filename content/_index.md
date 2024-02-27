@@ -44,6 +44,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+      {{< rawhtml >}}
+      <div>I like to <b><span class="txt-rotate" data-period="2000" data-rotate="[ 'sell more with less effort', 'control your distribution', 'really stand out from your competitors', 'use AI effectively', 'make a difference' ]" style="background:yellow;"></span></b>?</div>
+      {{< /rawhtml >}}
 
   - block: collection
     id: posts
@@ -294,4 +297,3 @@ sections:
     design:
       columns: '2'
 ---
-      <div>I like to <b><span class="txt-rotate" data-period="2000" data-rotate="[ 'sell more with less effort', 'control your distribution', 'really stand out from your competitors', 'use AI effectively', 'make a difference' ]" style="background:yellow;"></span></b>?</div>
