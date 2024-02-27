@@ -50,9 +50,7 @@ OTAs have the advantage of having a lot of resources and big teams of people wor
 
 I spend a lot of my time trying to change this way of thinking. It's pretty rare to see a hotel getting a good chunk (like 25%) of their bookings directly, which means they're losing out on a lot of money.-
 
-```
-On average, a direct booking generates 2.5 times more bottom line income than a booking coming from an OTA or an agency.
-```
+> On average, a direct booking generates 2.5 times more bottom line income than a booking coming from an OTA or an agency.
 
 But, as much as it bugs me, that is something usually not known or discussed between commercial and financial managers, let alone by the top leadership.-
 
