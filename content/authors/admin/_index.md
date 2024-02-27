@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+With a career spanning over two decades in travel eCommerce and Marketing, I have developed a profound expertise at the intersection of eCommerce, AI, and Data Science within the Travel and Tourism industries. Currently serving as the Chief Marketing Officer at GrupoBD, my journey has been marked by significant leadership roles, including being a partner and CMO at PriceTravel, and also a partner and in charge of eCommerce at AlSol Hotels and Resorts. My passion lies in harnessing the power of cutting-edge technologies to revolutionize the travel experience, driving growth, and shaping the future of travel and tourism.
 {style="text-align: justify;"}
 
 I like to <b><span 
