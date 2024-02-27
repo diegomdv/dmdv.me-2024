@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: eCommerce, AI Data Science. Travel & Tourism
+role: eCommerce, AI, Data Science. Travel & Tourism
 
 # Organizations/Affiliations to show in About widget
 organizations:
