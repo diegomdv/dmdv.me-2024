@@ -43,8 +43,9 @@ sections:
       title: Diego M. Del Vecchio
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      {{< rawhtml >}}
-      {{< /rawhtml >}}
+      text: |-
+        {{< rawhtml >}}
+        {{< /rawhtml >}}
 
   - block: collection
     id: posts
