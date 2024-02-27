@@ -57,9 +57,7 @@ But, as much as it bugs me, that is something usually not known or discussed bet
 So what do eCommerce teams focus on?
 They focus on generating the occupancy budgeted with the least possible effort, hence, lazy. But their laziness comes from the top of the pyramid, whether their name is CEO, COO, CCO, CSO, CMO or General Manager.-
 
-```
-95% of the hotels don’t have an incentive related to direct sales.-
-```
+> 95% of the hotels don’t have an incentive related to direct sales.-
 
 In today's digital era, understanding the intricacies of online sales and creating direct customer relationships is non-negotiable. Hotels failing to prioritize their direct channel strategies are at a significant disadvantage.-
 
