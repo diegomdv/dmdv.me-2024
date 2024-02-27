@@ -93,27 +93,38 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Chief Marketing Office
+        - title: Chief Marketing Office & Partner
           company: Price Travel
           company_url: ''
           company_logo: price-travel-logo
-          location: California
+          location: Mexico and Colombia
           date_start: '2004-09-01'
           date_end: '2015-09-30'
-          description: |2-
-              Responsibilities include:
+          description: One of the top Online Travel Agencies in Mexico. Founder (2004).
+#          description: |2-
+#              Responsibilities include:
+#
+#              * Analysing
+#              * Modelling
+#              * Deploying
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: eCommerce & Partner
+          company: Alsol Hotels & Resorts
           company_url: ''
-          company_logo: org-x
-          location: California
+          company_logo: alsol-logo
+          location: Caribbean
+          date_start: '2012-01-01'
+          date_end: '2019-12-31'
+          description: Hotel operator company with resorts in Cancun and the Dominican Republic.
+
+        - title: CEO
+          company: Revenatium
+          company_url: ''
+          company_logo: revenatium-logo
+          location: Mexico
           date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_end: '2018-12-31'
+          description: Tourism eCommerce Solutions. Booking Engine, Channel Manager, helping hotels sell more online
     design:
       columns: '2'
 
