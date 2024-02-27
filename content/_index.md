@@ -44,7 +44,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-      text: |-
+      text: >-
       <div>I like to <b><span
            class="txt-rotate"
            data-period="2000"
