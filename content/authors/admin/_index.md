@@ -127,4 +127,4 @@ With a career spanning over two decades in travel eCommerce and Marketing, I hav
 I like to <b><span 
   class="txt-rotate"
   data-period="2000" 
-  data-rotate='[ "", "drive transformative tourism marketing strategies.", "use AI effectively.", "share expertise in travel and tech.", "make a difference.", "advocate for sustainable travel marketing practices.", "collaborate on cutting-edge travel projects." ]' style="background:yellow; color:black;"></span></b>
+  data-rotate='[ "drive transformative tourism marketing strategies.", "use AI effectively.", "share expertise in travel and tech.", "make a difference.", "advocate for sustainable travel marketing practices.", "collaborate on cutting-edge travel projects." ]' style="background:yellow; color:black;"></span></b>
