@@ -43,6 +43,7 @@ categories:
   - ai
   - productivity
   -
+---
 
 # Kickstarting C-Level Productivity with ChatGPT
 
