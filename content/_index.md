@@ -269,7 +269,7 @@ sections:
       text: |-
         Reach me and connect.-
       # Contact (add or remove contact options as necessary)
-      email: contactweb@dmdv.me
+      #email: contact.web@dmdv.me
       phone: (ask)
       # appointment_url: 'https://calendly.com'
       #address:
