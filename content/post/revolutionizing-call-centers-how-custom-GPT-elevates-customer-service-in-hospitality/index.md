@@ -1,5 +1,5 @@
 ---
-title: Kickstarting C-Level Productivity with ChatGPT
+title: Revolutionizing Call Centers - How Custom GPT Elevates Customer Service in Hospitality
 subtitle: Strategies for C-level executives to leverage ChatGPT for enhanced productivity and strategic insights.
 
 # Summary for listings and search engines
@@ -15,13 +15,13 @@ date: '2024-02-23T00:00:00Z'
 lastmod: '2024-02-23T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
 
 # Hide from search results
-private: true
+private: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
