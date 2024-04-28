@@ -21,7 +21,7 @@ draft: false
 featured: false
 
 # Hide from search results
-private: true
+private: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
