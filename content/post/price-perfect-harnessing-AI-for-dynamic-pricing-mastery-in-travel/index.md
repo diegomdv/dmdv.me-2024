@@ -30,6 +30,8 @@ private: false
 #  focal_point: ''
 #  placement: 2
 #  preview_only: false
+image:
+  caption: 'Harnessing AI for Dynamic Pricing Mastery in Travel'
 
 authors:
   - admin
