@@ -15,13 +15,13 @@ date: '2024-04-27T17:06:48-05:00'
 lastmod: '2024-04-27T17:06:48-05:00'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
 
 # Hide from search results
-private: false
+private: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
