@@ -50,8 +50,10 @@ By embracing AI-driven personalization, your website transitions from a generic 
 ## **E**mpowering Guests and Building Loyalty Through Travel Personalization
 When travelers sense authenticity and genuine care in their interactions, they reward hotels with loyalty. By weaving in AI-powered personalization before guests even step foot on your property, you solidify trust and ensure they return for future adventures. After all, who doesn’t love a recommendation so spot-on that it feels handpicked just for them?
 
+<!-- 
 ### Further Reading:
 - [Proactive Hospitality: Leveraging AI to Anticipate Guest Desires](https://dmdv.me/post/proactive-hospitality)
+ -->
 
 ## **L**asting Impact: Setting a New Standard in Hospitality Industry Excellence
 As AI-powered hotel websites redefine hotel marketing strategies, the hospitality industry evolves beyond standard listing pages. Instead, it embraces the role of a digital host—anticipating needs, creating memorable experiences, and making every interaction count.  
