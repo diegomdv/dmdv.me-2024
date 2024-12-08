@@ -1,0 +1,7 @@
+pre code {
+    white-space: pre-wrap;       /* Wraps text to a new line when it would overflow */
+    word-break: break-word;      /* Allows wrapping within words if needed */
+    overflow-wrap: break-word;   /* Additional support for breaking long words */
+    display: block;              /* Ensures block-level display, though typically default */
+    max-width: 100%;             /* Keeps code within page width */
+  }
